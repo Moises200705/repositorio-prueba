@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #c8e6c9;
+  background-color: #1016b5;
   margin: 0;
   padding: 0;
   font-size: 14px;
@@ -10,9 +10,9 @@ body {
   max-width: 500px;
   margin: 40px auto;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #b80808;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px rgba(11, 3, 27, 0.1);
 }
 
 h1, h2 {
@@ -40,8 +40,8 @@ input, select {
 button {
   margin-top: 20px;
   padding: 10px;
-  background-color: #00796b;
-  color: white;
+  background-color: #280079;
+  color: rgb(43, 11, 159);
   border: none;
   border-radius: 5px;
   cursor: pointer;
